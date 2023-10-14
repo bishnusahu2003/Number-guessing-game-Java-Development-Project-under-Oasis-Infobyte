@@ -2,7 +2,7 @@
 
 Hello everyone!
 I am Bishnupada Sahu currently studying B.Tech in Iter Soa Bhubaneswar. 
-This is my java development project i.e. an nubmer guessing game under Oasis Infobyte.
+This is my java development project i.e. an number guessing game under Oasis Infobyte.
 I thank Oasis Infobyte for giving such a good opportunity to me.
 
 #Java Development Project
