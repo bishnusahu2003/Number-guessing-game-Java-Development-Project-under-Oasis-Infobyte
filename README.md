@@ -1,4 +1,4 @@
-# Number-guessing-game-Java-Development-Project-under-Oasis-Infobyte
+# Number-guessing-game-Java-Development-Project-under-Oasis-Infobyte(oibsip_task2)
 
 Hello everyone!
 I am Bishnupada Sahu currently studying B.Tech in Iter Soa Bhubaneswar. 
